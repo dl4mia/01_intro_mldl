@@ -8,7 +8,6 @@ As we did likely in the connection tutorial, you need to:
 
 ```
 ssh your.user@hpclogin.fht.org -L 8888:gnodeXX:YYYY
-
 ```
 Where you obviously will have to replace XX and YYYY, as well as insert your real user name.
 
