@@ -34,7 +34,7 @@ conda activate 01_intro_mldl
 
 Then install the following packages
 ```
-conda install tensorflow tensorflow-gpu keras matplotlib jupyter nb_conda
+conda install tensorflow-gpu keras jupyter matplotlib
 ```
 
 Now navigate to the exercise folder we cloned just before and start with the exercises! 
