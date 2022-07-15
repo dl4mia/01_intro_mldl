@@ -1,20 +1,8 @@
-# Exercise Session 1: Introduction to Machine Learning and Deep Learning
+![Banner](https://heathered-minnow-f5a.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2c209d92-b863-455c-96e3-e19a1e6be8c2%2Fbanner.png?table=block&id=9e7f6029-6d6b-4423-9b2d-b89cbb49d75a&spaceId=10bcea8c-e347-41c2-830b-9cba925c8c74&width=2000&userId=&cache=v2)
 
-## Connect to your HT Jupyter instance...
 
-As we did likely in the connection tutorial, you need to:
+Welcome to the DL4MIA 2022 Exercise Session 1: Introduction to Machine Learning and Deep Learning. In this set of exercises we will look into several basic topics in Machine learning and make ourselves familiar with the basics of modern Deep learning frameworks.
 
-1. SSH into our cluster to enable port forwarding. The command is something like:
-
-```
-ssh your.user@hpclogin.fht.org -L 8888:gnodeXX:YYYY
-```
-Where you obviously will have to replace XX and YYYY, as well as insert your real user name.
-
-2. Now connect to your Jupyter instance from your local broser by going to:
-```
-localhost:8888
-```
 
 ## Clone this repo...
 In Jupyter...
