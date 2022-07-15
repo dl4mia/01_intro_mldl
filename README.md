@@ -7,4 +7,4 @@ Welcome to the DL4MIA 2022 Exercise Session 1: Introduction to Machine Learning 
 The introduction and exercise sheet are available here: [01 Introduction to ML and DL](https://tinyurl.com/2srr6872).
 
 
-[Return to the main Course page](https://tinyurl.com/7z8jxx2w)
+[Return to the Course's main page](https://tinyurl.com/7z8jxx2w)
