@@ -27,13 +27,13 @@ In Jupyter...
 From within the same terminal in your browser, create a `conda` environment for this exercise and activate it:
 
 ```
-conda create -n 01_intro_mldl python=3.8
+conda create -n 01_intro_mldl python=3.7
 conda activate 01_intro_mldl
 ```
 
 Then install the following packages
 ```
-conda install tensorflow-gpu keras jupyter matplotlib
+conda install -c conda-forge tensorflow-gpu=2.6.0 keras jupyter tensorboard nb_conda
 ```
 
 Now navigate to the exercise folder we cloned just before and start with the exercises! 
