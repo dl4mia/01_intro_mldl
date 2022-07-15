@@ -4,24 +4,7 @@
 Welcome to the DL4MIA 2022 Exercise Session 1: Introduction to Machine Learning and Deep Learning. In this set of exercises we will look into several basic topics in Machine learning and make ourselves familiar with the basics of modern Deep learning frameworks.
 
 
-## Clone this repo...
-In Jupyter...
-* Open a terminal window (inside the browser, from within Jupyter).
-* Clone this repository by writing `git clone https://github.com/dl4mia/01_intro_mldl.git`.
-* A new folder was created, containing all three exercises. In order to run them we need to first create a stutable conda environment.
+The introduction and exercise sheet are available here: [01 Introduction to ML and DL](https://tinyurl.com/2srr6872).
 
-## Setup conda...
 
-From within the same terminal in your browser, create a `conda` environment for this exercise and activate it:
-
-```
-conda create -n 01_intro_mldl python=3.7
-conda activate 01_intro_mldl
-```
-
-Then install the following packages
-```
-conda install -c conda-forge tensorflow-gpu=2.6.0 keras jupyter tensorboard nb_conda
-```
-
-Now navigate to the exercise folder we cloned just before and start with the exercises! 
+[Return to the main Course page](https://tinyurl.com/7z8jxx2w)
