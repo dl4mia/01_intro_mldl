@@ -4,7 +4,7 @@
 Welcome to the DL4MIA 2023 Exercise Session 1: Introduction to Machine Learning and Deep Learning. In this set of exercises we will look into several basic topics in Machine learning and make ourselves familiar with the basics of modern Deep learning frameworks.
 
 
-The introduction and exercise sheet are available here: [01 Introduction to ML and DL](https://tinyurl.com/2srr6872).
+The introduction and exercise sheet are available here: [01 Introduction to ML and DL](https://tinyurl.com/4434wfa7).
 
 
-[Return to the Course's main page](https://tinyurl.com/7z8jxx2w)
+[Return to the Course's main page](https://tinyurl.com/33y2b2hk)
