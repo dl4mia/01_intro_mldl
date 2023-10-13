@@ -30,7 +30,7 @@ In Jupyter...
 From within the same terminal in your browser, create a `conda` environment for this exercise and activate it:
 
 ```
-$ conda create -n 01_intro_mldl python=3.7
+$ conda create -n 01_intro_mldl python=3.9
 $ conda activate 01_intro_mldl
 
 ```
@@ -38,9 +38,8 @@ $ conda activate 01_intro_mldl
 Then install the following packages
 
 ```
-$ conda install -y pytorch torchvision cudatoolkit=11.3 -c pytorch
-$ pip install torchsummary
-$ conda install jupiter matplotlib tqdm
+$ conda install pytorch torchvision pytorch-cuda=11.8 -c pytorch -c nvidia
+$ pip install torchsummary jupyter matplotlib tqdm
 ```
 
 Now navigate to the exercise folder we cloned just before and start with the exercises!
